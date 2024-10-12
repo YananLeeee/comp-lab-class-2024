@@ -1,15 +1,15 @@
-# This file was created Wed Oct  9 21:32:04 2024
+# This file was created Wed Oct  9 22:16:35 2024
 # Created by:
-#                      :-) GROMACS - gmx energy, 2018.3 (-:
+#                      :-) GROMACS - gmx energy, 2023.3 (-:
 # 
-# Executable:   /share/apps/gromacs/2018.3/openmpi/intel/bin/gmx_mpi
-# Data prefix:  /share/apps/gromacs/2018.3/openmpi/intel
+# Executable:   /ext3/apps/gromacs/2023.3/openmpi/intel/bin/gmx_mpi
+# Data prefix:  /ext3/apps/gromacs/2023.3/openmpi/intel
 # Working dir:  /scratch/work/courses/CHEM-GA-2671-2024fa/students/yl12451/comp-lab-class-2024/Week5-ParallelTempering/setup/T300
 # Command line:
 #   gmx_mpi energy -f adp_exchange3temps.edr -o potential.xvg
 # gmx energy is part of G R O M A C S:
 #
-# Green Red Orange Magenta Azure Cyan Skyblue
+# GROningen Mixture of Alchemy and Childrens' Stories
 #
 @    title "GROMACS Energies"
 @    xaxis  label "Time (ps)"

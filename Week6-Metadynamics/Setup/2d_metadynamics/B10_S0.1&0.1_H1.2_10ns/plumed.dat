@@ -1,0 +1,26 @@
+# vim:ft=plumed
+# Define the molecular structure (optional if specified in the GROMACS .tpr file)
+# MOLINFO STRUCTURE=diala.pdb 
+
+# Compute the backbone dihedral angle phi, defined by atoms C-N-CA-C
+phi: TORSION ATOMS=5,7,9,15
+
+# Compute the backbone dihedral angle psi, defined by atoms N-CA-C-N
+psi: TORSION ATOMS=7,9,15,1
+
+# Activate well-tempered metadynamics in both phi and psi
+metad: METAD ... 
+      ARG=phi,psi        # Include both phi and psi as arguments
+      PACE=500           # Frequency of bias addition
+      HEIGHT=1.2         # Bias height (kcal/mol or kJ/mol, depending on your units)
+      BIASFACTOR=10      # Well-tempered bias factor
+      SIGMA=0.1,0.1      # Gaussian width for phi and psi (can be tuned)
+      FILE=HILLS         # Output file for metadynamics hills
+      GRID_MIN=-pi,-pi   # Minimum value for both phi and psi
+      GRID_MAX=pi,pi     # Maximum value for both phi and psi
+      GRID_WFILE=grid.dat  # Output grid file for the FES
+      GRID_WSTRIDE=10000 # Write grid every 10000 steps
+...
+
+# Print both collective variables and the value of the bias potential to COLVAR file
+PRINT ARG=phi,psi,metad.bias FILE=COLVAR STRIDE=10
