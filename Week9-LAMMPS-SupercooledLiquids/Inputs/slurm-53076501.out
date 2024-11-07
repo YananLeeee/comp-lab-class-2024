@@ -1,0 +1,207 @@
+LAMMPS (15 Sep 2022)
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+In: PMI_Abort(1, N/A)
+slurmstepd: error: *** STEP 53076501.0 ON cm027 CANCELLED AT 2024-11-05T18:00:12 ***
+srun: error: cm027: tasks 0-3: Killed
+srun: Terminating StepId=53076501.0
+LAMMPS (15 Sep 2022)
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+In: PMI_Abort(1, N/A)
+slurmstepd: error: *** STEP 53076501.1 ON cm027 CANCELLED AT 2024-11-05T18:00:13 ***
+srun: error: cm027: tasks 0-3: Killed
+srun: Terminating StepId=53076501.1
+LAMMPS (15 Sep 2022)
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+In: PMI_Abort(1, N/A)
+slurmstepd: error: *** STEP 53076501.2 ON cm027 CANCELLED AT 2024-11-05T18:00:13 ***
+srun: error: cm027: task 0: Exited with exit code 1
+srun: Terminating StepId=53076501.2
+srun: error: cm027: tasks 1-3: Killed
+LAMMPS (15 Sep 2022)
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+In: PMI_Abort(1, N/A)
+slurmstepd: error: *** STEP 53076501.3 ON cm027 CANCELLED AT 2024-11-05T18:00:14 ***
+srun: error: cm027: task 0: Exited with exit code 1
+srun: Terminating StepId=53076501.3
+srun: error: cm027: tasks 1-3: Killed
+LAMMPS (15 Sep 2022)
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+In: PMI_Abort(1, N/A)
+slurmstepd: error: *** STEP 53076501.4 ON cm027 CANCELLED AT 2024-11-05T18:00:15 ***
+srun: error: cm027: task 0: Exited with exit code 1
+srun: Terminating StepId=53076501.4
+srun: error: cm027: tasks 1-3: Killed
+LAMMPS (15 Sep 2022)
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+In: PMI_Abort(1, N/A)
+slurmstepd: error: *** STEP 53076501.5 ON cm027 CANCELLED AT 2024-11-05T18:00:15 ***
+srun: error: cm027: task 0: Exited with exit code 1
+srun: Terminating StepId=53076501.5
+srun: error: cm027: tasks 1-3: Killed
+LAMMPS (15 Sep 2022)
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+In: PMI_Abort(1, N/A)
+slurmstepd: error: *** STEP 53076501.6 ON cm027 CANCELLED AT 2024-11-05T18:00:16 ***
+srun: error: cm027: task 0: Exited with exit code 1
+srun: Terminating StepId=53076501.6
+srun: error: cm027: tasks 1-3: Killed
+LAMMPS (15 Sep 2022)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+In: PMI_Abort(1, N/A)
+slurmstepd: error: *** STEP 53076501.7 ON cm027 CANCELLED AT 2024-11-05T18:00:17 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: cm027: task 0: Exited with exit code 1
+srun: Terminating StepId=53076501.7
+srun: error: cm027: tasks 1-3: Killed
+LAMMPS (15 Sep 2022)
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+In: PMI_Abort(1, N/A)
+slurmstepd: error: *** STEP 53076501.8 ON cm027 CANCELLED AT 2024-11-05T18:00:17 ***
+srun: error: cm027: task 0: Exited with exit code 1
+srun: Terminating StepId=53076501.8
+srun: error: cm027: tasks 1-3: Killed
+LAMMPS (15 Sep 2022)
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+In: PMI_Abort(1, N/A)
+slurmstepd: error: *** STEP 53076501.9 ON cm027 CANCELLED AT 2024-11-05T18:00:18 ***
+srun: error: cm027: task 0: Exited with exit code 1
+srun: Terminating StepId=53076501.9
+srun: error: cm027: tasks 1-3: Killed
+LAMMPS (15 Sep 2022)
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+In: PMI_Abort(1, N/A)
+slurmstepd: error: *** STEP 53076501.10 ON cm027 CANCELLED AT 2024-11-05T18:00:18 ***
+srun: error: cm027: task 0: Exited with exit code 1
+srun: Terminating StepId=53076501.10
+srun: error: cm027: tasks 1-3: Killed
