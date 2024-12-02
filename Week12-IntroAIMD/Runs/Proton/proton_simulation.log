@@ -1,0 +1,54 @@
+ DBCSR| CPU Multiplication driver                                           XSMM
+ DBCSR| Multrec recursion limit                                              512
+ DBCSR| Multiplication stack size                                           1000
+ DBCSR| Maximum elements for images                                    UNLIMITED
+ DBCSR| Multiplicative factor virtual images                                   1
+ DBCSR| Use multiplication densification                                       T
+ DBCSR| Multiplication size stacks                                             3
+ DBCSR| Use memory pool for CPU allocation                                     F
+ DBCSR| Number of 3D layers                                               SINGLE
+ DBCSR| Use MPI memory allocation                                              F
+ DBCSR| Use RMA algorithm                                                      F
+ DBCSR| Use Communication thread                                               T
+ DBCSR| Communication thread load                                             87
+ DBCSR| MPI: My node id                                                        0
+ DBCSR| MPI: Number of nodes                                                  12
+ DBCSR| OMP: Current number of threads                                         1
+ DBCSR| OMP: Max number of threads                                             1
+ DBCSR| Split modifier for TAS multiplication algorithm                  1.0E+00
+
+
+  **** **** ******  **  PROGRAM STARTED AT               2024-11-30 22:16:38.272
+ ***** ** ***  *** **   PROGRAM STARTED ON                     cs195.hpc.nyu.edu
+ **    ****   ******    PROGRAM STARTED BY                               yl12451
+ ***** **    ** ** **   PROGRAM PROCESS ID                               4050909
+  **** **  *******  **  PROGRAM STARTED IN /scratch/work/courses/CHEM-GA-2671-20
+                                           24fa/students/yl12451/comp-lab-class-
+                                           2024/Week12-IntroAIMD/Runs/Proton
+
+ CP2K| version string:                    CP2K version 8.0 (Development Version)
+ CP2K| source code revision number:                                  git:8c64c6e
+ CP2K| cp2kflags: omp libint fftw3 libxc elpa parallel mpi3 scalapack xsmm max_c
+ CP2K|            ontr=4 mkl
+ CP2K| is freely available from                            https://www.cp2k.org/
+ CP2K| Program compiled at                          Sat Dec 12 18:27:15 EST 2020
+ CP2K| Program compiled on                                     cs001.nyu.cluster
+ CP2K| Program compiled for                                            nyu-intel
+ CP2K| Data directory path                    /home/wang/cp2k-20201212/cp2k/data
+ CP2K| Input file name                                                proton.inp
+
+ *******************************************************************************
+ *   ___                                                                       *
+ *  /   \                                                                      *
+ * [ABORT]                                                                     *
+ *  \___/                    Could not parse WALLTIME: "2160s"                 *
+ *    |                                                                        *
+ *  O/|                                                                        *
+ * /| |                                                                        *
+ * / \                                                      environment.F:1059 *
+ *******************************************************************************
+
+
+ ===== Routine Calling Stack ===== 
+
+            1 CP2K
